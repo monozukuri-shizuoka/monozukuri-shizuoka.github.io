@@ -1,0 +1,1 @@
+# monodukuri-shizuoka.github.io
