@@ -4000,6 +4000,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-stwLmeGCOH {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-stwLmeGCOH .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-stwLmeGCOH .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rDnCA5ybRV {
   padding-top: 45px;
   padding-bottom: 0px;
